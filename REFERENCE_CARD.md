@@ -1,4 +1,4 @@
-# Reference Card – Carbon Footprint Monitor (DHT11)
+# Reference Card – Carbon Footprint Monitor 
 
 ## Hardware Used
 - ESP8266 NodeMCU  
