@@ -57,7 +57,3 @@ For a detailed, step‑by‑step guide, read **QUICKSTART.md**.
 - `REFERENCE_CARD.md` – pin mapping, formulas, and quick troubleshooting.  
 ---
 
-## 📜 License
-
-This project is released under the **MIT License**.  
-See the `LICENSE` file for details.
