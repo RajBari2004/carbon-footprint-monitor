@@ -37,19 +37,11 @@
 
 #define FLOW_SENSOR_PIN D4
 #define DHT_PIN D7
-#define DHT_TYPE DHT11 // DHT11 selected
-
-FuelType currentFuel = FUEL_PETROL; // PETROL / DIESEL / WATER / LPG
-
-text
-
+#define DHT_TYPE DHT11 
 Wi‑Fi (set before upload):
 
 const char* ssid = "YOUR_WIFI_NAME";
 const char* password = "YOUR_WIFI_PASSWORD";
-
-text
-
 ---
 
 ## How to Run
