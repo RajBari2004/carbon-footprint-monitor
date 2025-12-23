@@ -51,13 +51,10 @@ For a detailed, step‑by‑step guide, read **QUICKSTART.md**.
 ---
 
 ## 📂 Repository Structure
-
 - `code.ino` – main firmware for ESP8266.  
 - `BOM.md` – bill of materials (all components and approximate prices).  
 - `QUICKSTART.md` – quick start setup and flashing steps.  
 - `REFERENCE_CARD.md` – pin mapping, formulas, and quick troubleshooting.  
-- `VIVA_PREP.md` – viva / oral exam preparation notes.  
-
 ---
 
 ## 📜 License
