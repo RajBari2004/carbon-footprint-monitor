@@ -46,7 +46,7 @@ An IoT‑based system that measures real‑time fuel flow, estimates CO₂ emiss
 5. Open the Serial Monitor to note the IP address printed on boot.  
 6. Open a browser and go to `http://<that-ip>` to see the dashboard.
 
-For a detailed, step‑by‑step guide, read **QUICKSTART.md**.
+
 
 ---
 
